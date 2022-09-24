@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="center" alt="coding" width="800px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+<img align="center" alt="coding" width="800px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif"></img>
 - 💬 Ask me about **react,js**
 
 - 📫 How to reach me **hari.r2020ece@sece.ac.in**
