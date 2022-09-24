@@ -1,16 +1,22 @@
-<h3 align="center">A passionate MERN-Stack developer from India</h3>
+<h3 align="center">A MERN-Stack developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari1538radha&label=Profile%20views&color=0e75b6&style=flat" alt="hari1538radha" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari1538radha" alt="hari1538radha" /></a> </p>
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">q
-- 💬 Ask me about **MERN_STACK**
+
+<img align="center" alt="coding" width="800px" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
+- 💬 Ask me about **react,js**
 
 - 📫 How to reach me **hari.r2020ece@sece.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/radha hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radha hari" height="30" width="40" /></a>
+<a href="https://instagram.com/r.a.d.h.a_h.a.r.i_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.a.d.h.a_h.a.r.i_7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
