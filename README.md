@@ -7,7 +7,7 @@
 
 * 🌍  I'm based in Indian
 * ✉️  You can contact me at [radhahari681@gmail.com](mailto:radhahari681@gmail.com)
-* 🧠  I'm learning Vue J
+* 🧠  I'm learning Vue JS
 
 
 ## 🌐 Socials:
