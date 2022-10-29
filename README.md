@@ -1,10 +1,8 @@
 <h3 align="center">A MERN-Stack developer</h3>
 <img align="center" alt="coding" width="100%" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif"></img>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hari R
-==============================================================================================================================
+Hi My name is Hari R
 
 web and mobile Application Developer
-------------------------------------
 
 "Make it work, make it right, make it fast."
 
