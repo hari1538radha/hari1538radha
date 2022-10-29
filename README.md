@@ -3,6 +3,12 @@
 # 💫 About Me:
 🥳 Me Hari Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br><br>👉 Lives in Coimbatore, India 🇮🇳<br><br>👉 Choose to be Optimistic 😃<br><br>👉 Big fan of Avengers📺<br><br>👉 🏏   🏸     🍕<br><br>
 
+"Make it work, make it right, make it fast."
+
+* 🌍  I'm based in Indian
+* ✉️  You can contact me at [radhahari681@gmail.com](mailto:radhahari681@gmail.com)
+* 🧠  I'm learning Vue J
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.a.d.h.a_h.a.r.i_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-radha-a15b13250) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chiku_hari) 
@@ -16,7 +22,7 @@
 <a href="http://www.github.com/Hari1538radha"><img src="https://activity-graph.herokuapp.com/graph?username=Hari1538radha&bg_color=22272e&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hari1538radha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
+<div width="100%" align="center"><a href="https://github.com/Hari1538radha/Academy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari1538radha&repo=Academy&title_color=f97316&text_color=22c55e&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
