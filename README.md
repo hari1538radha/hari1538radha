@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hari1538radha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hari1538radha&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hari1538radha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<a href="http://www.github.com/Hari1538radha"><img src="https://activity-graph.herokuapp.com/graph?username=Hari1538radha&bg_color=22272e&color=22c55e&line=ec4899&point=22c55e&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hari1538radha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
