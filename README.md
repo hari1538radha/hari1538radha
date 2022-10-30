@@ -1,6 +1,7 @@
 <h3 align="center">A MERN-Stack developer</h3>
 <img align="center" alt="coding" width="100%" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif"></img>
-# 💫 About Me:
+💫 About Me:
+<br></br>
 🥳 Me Hari Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br><br>👉 Lives in Coimbatore, India 🇮🇳<br><br>👉 Choose to be Optimistic 😃<br><br>👉 Big fan of Avengers📺<br><br>👉 🏏   🏸     🍕<br><br>
 
 "Make it work, make it right, make it fast."
