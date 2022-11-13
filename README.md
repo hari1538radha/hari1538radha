@@ -1,5 +1,5 @@
 <div>
-  <h3 align="center">A MERN-Stack developer</h3>
+  <h3 align="center">A FullStack Devloper (MERN</h3>
 <img align="center" alt="coding" width="100%" src="https://www.digisailor.com/assets/img/projects/Application-Development.gif"></img>
 💫 About Me:
 <br></br>
@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in Indian
 * ✉️  You can contact me at [radhahari681@gmail.com](mailto:radhahari681@gmail.com)
-* 🧠  I'm learning Vue JS
+* 🧠  I'm learning Next.js
 
 
 ## 🌐 Socials:
