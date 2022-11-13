@@ -1,4 +1,5 @@
-<h3 align="center">A MERN-Stack developer</h3>
+<div>
+  <h3 align="center">A MERN-Stack developer</h3>
 <img align="center" alt="coding" width="100%" src="https://www.digisailor.com/assets/img/projects/Application-Development.gif"></img>
 💫 About Me:
 <br></br>
@@ -25,3 +26,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hari1538radha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 <div width="100%" align="center"><a href="https://github.com/Hari1538radha/Academy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hari1538radha&repo=Academy&title_color=f97316&text_color=22c55e&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+</div>
