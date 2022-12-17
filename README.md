@@ -1,6 +1,6 @@
 <div>
   <h3 align="center">A FullStack Devloper (MERN)</h3>
-<img align="center" alt="coding" width="100%" height="500px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
+<img align="center" alt="coding" width="90%" height="400px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
 💫 About Me:
 <br></br>
 🥳 Me Hari Here<br>👉 I’m a ambitious and self taught full-stack developer 🖥️<br><br>👉 Lives in Coimbatore, India 🇮🇳<br><br>👉 Choose to be Optimistic 😃<br><br>👉 Big fan of Avengers📺<br><br>👉 🏏   🏸     🍕<br><br>
