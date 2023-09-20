@@ -1,6 +1,6 @@
 <div>
   <h3 align="center">A FULLSTACK DEVELOPER - MERN & MEVN</h3>
-<img align="center" alt="coding" width="100%" height="400px" src="https://resume-folder.s3.eu-west-2.amazonaws.com/MERN-vs-MEVN.jpg"></img>
+<img align="center" alt="coding" width="100%" height="400px" src="https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png"></img>
 <br></br>
 # 💫 About Me:
 🔭 I’m currently working on SP plus<br>🌱 I’m currently learning SQL,Sequelize<br>
