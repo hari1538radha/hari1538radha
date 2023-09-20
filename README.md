@@ -1,6 +1,6 @@
 <div>
   <h3 align="center">A FULLSTACK DEVELOPER - MERN & MEVN</h3>
-<img align="center" alt="coding" width="100%" height="400px" src="https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png"></img>
+<img align="center" alt="coding" width="100%" height="400px" src="https://media.licdn.com/dms/image/D4D12AQFvKb0jC8ufHQ/article-cover_image-shrink_720_1280/0/1687171684226?e=2147483647&v=beta&t=mRvgRzcoBFv0UtEyt6gQA33WDKyKfrD0y7kqh1AKOeY"></img>
 <br></br>
 # 💫 About Me:
 🔭 I’m currently working on SP plus<br>🌱 I’m currently learning SQL,Sequelize<br>
